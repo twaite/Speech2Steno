@@ -1,0 +1,11 @@
+[package]
+name = "steno-s2t"
+version = "0.1.0"
+authors = ["Tim Waite <tim@dialexa.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+soundio = "0.2.1"
+iced = "0.3"
